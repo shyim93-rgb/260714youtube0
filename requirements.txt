@@ -1,0 +1,9 @@
+streamlit
+google-api-python-client
+pandas
+numpy
+wordcloud
+matplotlib
+plotly
+kiwipiepy
+Pillow
